@@ -1,0 +1,6 @@
+{
+  "name": "Web Engineering Rendering",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:24",
+  "postCreateCommand": "corepack enable",
+  "forwardPorts": [3000]
+}
